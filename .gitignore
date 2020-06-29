@@ -1,0 +1,8 @@
+venv/
+env.py
+env/
+cred.json
+Downloads/
+*.csv
+*.xml
+output.log

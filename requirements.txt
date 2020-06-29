@@ -1,0 +1,9 @@
+xmltodict
+pandas
+pandas_gbq
+pandasql
+googleads
+oauth2client
+google-api-python-client
+CurrencyConverter
+selenium
