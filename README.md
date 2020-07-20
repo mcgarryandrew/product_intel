@@ -1,7 +1,7 @@
 NOTE: This is development code. There are a lot of efficiency and good practice improvements to be made. Feel free to improve upon it!
 NOTE 2: When refering to functions or methods, we mean the same thing.
 
-## Notable things to improve
+## Notable things to improve 
 - Reduce the number of API calls. This can be done by making a dedicated file for all API calls and storing the result for reuse.
 - Add error catching to API calls. This will avoid timeout errors!
 - Add general error catching and ways to deal with them
